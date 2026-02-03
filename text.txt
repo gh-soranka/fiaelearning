@@ -1,7 +1,3 @@
 Hier steht ein text
 
-Änderung Eins
-
-Änderung Zwei
-
-Änderung Drei
+Änderung der Text Datei
